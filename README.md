@@ -1,2 +1,3 @@
 # project_euler
 My attempts at Project Euler
+These may or may not be good...
